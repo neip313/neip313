@@ -1,5 +1,22 @@
 # My name is SinHyung Park
 
+⊂_ヽ 
+　 ＼＼ Λ＿Λ 
+　　 ＼( 'ㅅ' ) 
+　　　 >　⌒ヽ 
+　　　/ 　 へ＼ 
+　　 /　　/　＼＼ 
+　　 ﾚ　ノ　　 ヽ_つ 
+　　/　/ 
+　 /　/| 
+　(　(ヽ 
+　|　|、＼ 
+　| 丿 ＼ ⌒) 
+　| |　　) / 
+(`ノ )　　Lﾉ
+
+- I am studying in Pyeongtaek, Korea.
+
 - Department of Economics:chart_with_upwards_trend: at Kyung Hee University🏛
 
 - I am studying R and Python, SQL, Big Query
