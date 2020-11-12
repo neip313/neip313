@@ -1,6 +1,6 @@
 # My name is SinHyung Park
 
-- I am studying in Pyeongtaek, Korea.:kr:
+- I am studying in Pyeongtaek, Korea
 
 - Department of Economics:chart_with_upwards_trend: at Kyung Hee University🏛
 
