@@ -4,6 +4,8 @@
 
 - Department of Economics:chart_with_upwards_trend: at Kyung Hee University🏛
 
+- I am an officer of the Korean Army.
+
 - I am studying R and Python, SQL, Big Query
 
 - My dream is to be a data scientist.
