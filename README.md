@@ -2,7 +2,7 @@
 
 :point_right: I am studying in Pyeongtaek, Korea
 
-:point_right: Department of Economics:chart_with_upwards_trend: at Kyung Hee University🏛
+:point_right: I majored in economics:chart_with_upwards_trend: at Kyung Hee University🏛
 
 :point_right: I was a Korean Army officer.
 
