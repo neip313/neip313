@@ -1,7 +1,5 @@
 # My name is SinHyung Park
 
-:point_right: I am studying in Pyeongtaek, Korea
-
 :point_right: I majored in economics:chart_with_upwards_trend: at Kyung Hee University🏛
 
 :point_right: I was a Korean Army officer.
